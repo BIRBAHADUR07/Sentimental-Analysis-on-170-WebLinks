@@ -7,8 +7,11 @@ In this project I have done Sentimental Analysis on 170 links from BlackCoffer W
 
 
 First I have extracted the required data from these websites using WebScrapping.
+
 Then I saved all the data in text files.
+
 Then I have applied NLP on all those TextFiles Step-By-Step (python xlrd version 1.2.0 is used)
+
 After that I have created some vairables and wrote that data on excel sheet.
 
 
